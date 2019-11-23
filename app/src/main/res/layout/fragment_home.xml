@@ -13,13 +13,14 @@
         android:text="Sort by"
         android:textAllCaps="true"
         android:fontFamily="@font/poppins_semibold"
-        android:textSize="13sp"
+        android:textSize="12sp"
         android:layout_gravity="end"
         android:paddingEnd="16dp"
+        android:alpha="0.75"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"
         android:drawablePadding="8dp"
-        android:textColor="@android:color/darker_gray"
+        android:textColor="@android:color/black"
         android:drawableStart="@drawable/ic_sort"
         android:paddingStart="16dp"/>
 
